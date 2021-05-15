@@ -21,7 +21,7 @@
     
 * **[BirdCLEF 2021 - Birdcall Identification](https://www.kaggle.com/c/birdclef-2021)**
 
-    * 분류: `Audio Classification`, `Segmentation`
+    * 분류: `Audio`, `Classification`, `Segmentation`
     * 주최: Cornell Lab of Ornithology
     * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
     * 일시: 4월 1일 ~ 5월 31일 23:59 UTC
