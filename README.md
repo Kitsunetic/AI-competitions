@@ -91,6 +91,15 @@
     * 상금: 미정
     * 요약: 
 
+* **[Overhead Geopose Challenge](https://www.drivendata.org/competitions/78/overhead-geopose-challenge/page/371/)**
+
+    * 분류: `3D Object-Detection`
+    * 주최: NGA, NASA
+    * 주관: [DrivenDATA](https://www.drivendata.org/)
+    * 일시: 5월 21일 ~ 7월 19일 23:59 UTC
+    * 상금: $50,000
+    * 요약: 인공위성 사진에서 건물의 높이를 측정한다.
+    
 * **[SETI Breakthrough Listen - E.T. Signal Search](https://www.kaggle.com/c/seti-breakthrough-listen)**
 
     * 분류: 
