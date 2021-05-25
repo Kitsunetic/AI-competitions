@@ -2,15 +2,6 @@
 
 # 현재 진행중인 대회
 
-* **[Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation)**
-
-    * 분류: 
-    * 주최: Microsoft Research
-    * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
-    * 일시: 1월 28일 ~ 5월 17일 23:59 UTC
-    * 상금: $10,000
-    * 요약: Identify the position of a smartphone in a shopping mall
-
 * **[한국 부동산 데이터 시각화 경진대회](https://dacon.io/competitions/official/235724)**
 
     * 분류: `Visualization`
@@ -18,6 +9,15 @@
     * 일시: 4월 21일 ~ 5월 26일 17:59
     * 상금: 100만원
     * 요약: 부동신 정보 시각화. 유저 평가.
+
+* **[2021 인공지능 온라인 경진대회 사전 접수](https://www.aiconnect.kr/main/competition/detail/188)**
+
+    * 분류: `Computer Vision`, `NLP`
+    * 주최: 과학기술정보통신부, 정보통신산업진흥원
+    * 일시: 5월 17일 ~ 5월 31일 15:00
+    * 상금: 
+    * 요약: 사회적 문제 해결, 중소 벤처기업 사업화
+    * 기타: 대회 설명회(6월 4일) 참여 신청이며, 본 접수는 6월 7일부터 진행
     
 * **[BirdCLEF 2021 - Birdcall Identification](https://www.kaggle.com/c/birdclef-2021)**
 
@@ -133,6 +133,15 @@
 
 
 # 지난 대회 목록
+
+* **[Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation)**
+
+    * 분류: 
+    * 주최: Microsoft Research
+    * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
+    * 일시: 1월 28일 ~ 5월 17일 23:59 UTC
+    * 상금: $10,000
+    * 요약: Identify the position of a smartphone in a shopping mall
 
 * **[Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction)**
 
