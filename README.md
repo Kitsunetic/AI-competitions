@@ -2,23 +2,14 @@
 
 # 현재 진행중인 대회
 
-* **[2021 인공지능 온라인 경진대회 사전 접수](https://www.aiconnect.kr/main/competition/detail/188)**
-
-    * 분류: `Computer Vision`, `NLP`
-    * 주최: 과학기술정보통신부, 정보통신산업진흥원
-    * 일시: 5월 17일 ~ 5월 31일 15:00
-    * 상금: 
-    * 요약: 사회적 문제 해결, 중소 벤처기업 사업화
-    * 기타: 대회 설명회(6월 4일) 참여 신청이며, 본 접수는 6월 7일부터 진행
-
 * **[2021년도 인공지능 온라인 경진대회](https://www.aiconnect.kr)**
 
-    * 분류: 
+    * 분류: `Computer Vision`, `NLP`
     * 주최: 과학기술정보통신부
     * 주관: NIPA(정보통신산업진흥원)
-    * 일시: 사전접수: 5월 17일 ~ 5월 31일 | 본접수: 6월 7일 ~ 6월 11일 | 본선일정 6월 21일 ~ 7월 2일
+    * 일시: ~~사전접수: 5월 17일 ~ 5월 31일~~ | 본접수: 6월 7일 ~ 6월 11일 | 본선일정 6월 21일 ~ 7월 2일
     * 상금: 
-    * 요약: 
+    * 요약: 사회적 문제 해결, 중소 벤처기업 사업화
 
 * **[Bristol-Myers Squibb – Molecular Translation](https://www.kaggle.com/c/bms-molecular-translation)**
 
@@ -46,6 +37,15 @@
     * 접수기간: 4월 22일 ~ 6월 14일
     * 총상금: 1700만원
     * **참가대상: 중학생, 고등학생**
+    
+* **[Coleridge Initiative - Show US the Data](https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data)**
+
+    * 분류: `Visualization`
+    * 주최: Coleridge Initiative
+    * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
+    * 일시: 3월 23일 ~ 6월 22일 23:59 UTC
+    * 상금: $90,000
+    * 요약: 
 
 * **[전력사용량 예측 AI 경진대회](https://dacon.io/competitions/official/235736)**
 
@@ -65,15 +65,6 @@
     * 상금: 600만원
     * 요약: 미래에 해빙의 분포(이미지)를 예측한다.
 
-* **[하천 하구의 수온·염분 예측을 위한 알고리즘 개발](http://aifactory.space/task/detail.do?taskId=T001952)**
-
-    * 분류: 
-    * 주최: 한국수자원공사, ㈜휴먼플래닛
-    * 주관: AIFactory [<img width="85" src="./img/AIFactory.png">](http://aifactory.space/)
-    * 일시: 6월 1일 ~ 6월 30일
-    * 상금: 미정
-    * 요약: 
-
 * **[Overhead Geopose Challenge](https://www.drivendata.org/competitions/78/overhead-geopose-challenge/page/371/)**
 
     * 분류: `3D Object-Detection`
@@ -85,16 +76,17 @@
     
 * **[SETI Breakthrough Listen - E.T. Signal Search](https://www.kaggle.com/c/seti-breakthrough-listen)**
 
-    * 분류: 
+    * 분류: `Signal Analysis`, `Computer Vision`
     * 주최: Berkeley SETI Research Center
     * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
     * 일시: 5월 10일 ~ 7월 28일 23:59 UTC
     * 상금: $15,000
-    * 요약: 
+    * 요약: SETI 신호(이미지 shape)에서 특정 신호의 존재를 찾는다.
+    * 메모: 대회가 시작한지 얼마 안됬는데 벌써 0.99 스코어를 달성한 사람이 여럿 있음. 대회가 이대로 계속 진행될지 대회 내용에 수정이 있을지 지켜봐야할 듯.
 
 * **[CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize)**
 
-    * 분류: `NLP`, `Regression`
+    * 분류: `NLP`, `Regression`, `Distributional Regression`
     * 주최: CommonLit
     * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
     * 일시: 5월 3일 ~ 8월 2일 23:59 UTC
@@ -103,13 +95,30 @@
     
 * **[Google Smartphone Decimeter Challenge](https://www.kaggle.com/c/google-smartphone-decimeter-challenge)**
 
-    * 분류: 
+    * 분류: `Signal Analysis`
     * 주최: Google
     * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
     * 일시: 5월 12일 ~ 8월 4일 23:59 UTC
     * 상금: $10,000
     * 요약: Improve high precision GNSS positioning and navigation accuracy on smartphones
+    
+* **[SIIM-FISABIO-RSNA COVID-19 Detection](https://www.kaggle.com/c/siim-covid19-detection)**
 
+    * 분류: `Computer Vision`
+    * 주최: Society for Imaging Informatics in Medicine (SIIM)
+    * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
+    * 일시: 5월 17일 ~ 8월 9일 23:59 UTC
+    * 상금: $100,000
+    * 요약: 흉부 X-ray 사진을 통해 COVID-19의 탐지에 도움을 준다.
+
+* **[하천 하구의 수온·염분 예측을 위한 알고리즘 개발](http://aifactory.space/task/detail.do?taskId=T001952)**
+
+    * 분류: 
+    * 주최: 한국수자원공사, ㈜휴먼플래닛
+    * 주관: AIFactory [<img width="85" src="./img/AIFactory.png">](http://aifactory.space/)
+    * 일시: 7월 중 예정 (6월에서 주최측 사정으로 1개월 연기됨)
+    * 상금: 미정
+    * 요약: 
 
 
 
@@ -160,4 +169,11 @@
 
 # Contribution
 
-대회는 마감 일시를 기준으로 정렬하며, 정확하지 않은 정보가 있을 수 있습니다.
+Kaggle, DrivenData, DACON, AIFactory 및 일부 기업 주관 대회에 대해 정리합니다.
+
+**추후 지원 예정**
+
+* [Xeek](https://xeek.ai/challenges)
+* [Zindi (Afreeca)](https://zindi.africa/competitions)
+* [Tianchi天地 (China)](https://tianchi.aliyun.com/competition/gameList/activeList)
+* [Dphi](https://dphi.tech/challenges/)
