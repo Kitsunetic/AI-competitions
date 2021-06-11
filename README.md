@@ -11,15 +11,6 @@
     * 상금: 
     * 요약: 사회적 문제 해결, 중소 벤처기업 사업화
 
-* **[Bristol-Myers Squibb – Molecular Translation](https://www.kaggle.com/c/bms-molecular-translation)**
-
-    * 분류: `Multi-Modal`
-    * 주최: Bristol-Mysters Squibb
-    * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
-    * 일시: 3월 2일 ~ 6월 2일 23:59 UTC
-    * 상금: $50,000
-    * 요약: 화학 구조 이미지를 InChI 텍스트로 번역한다.
-
 * **[동서발전 태양광 발전량 예측 AI 경진대회](https://dacon.io/competitions/official/235720)**
 
     * 분류: `Time Series`, `Prediction`
@@ -133,6 +124,15 @@
 
 
 # 지난 대회 목록
+
+* **[Bristol-Myers Squibb – Molecular Translation](https://www.kaggle.com/c/bms-molecular-translation)**
+
+    * 분류: `Multi-Modal`
+    * 주최: Bristol-Mysters Squibb
+    * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
+    * 일시: 3월 2일 ~ 6월 2일 23:59 UTC
+    * 상금: $50,000
+    * 요약: 화학 구조 이미지를 InChI 텍스트로 번역한다.
     
 * **[BirdCLEF 2021 - Birdcall Identification](https://www.kaggle.com/c/birdclef-2021)**
 
