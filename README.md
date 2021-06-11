@@ -83,6 +83,14 @@
     * 상금: $15,000
     * 요약: SETI 신호(이미지 shape)에서 특정 신호의 존재를 찾는다.
     * 메모: 대회가 시작한지 얼마 안됬는데 벌써 0.99 스코어를 달성한 사람이 여럿 있음. 대회가 이대로 계속 진행될지 대회 내용에 수정이 있을지 지켜봐야할 듯.
+    
+* **[MLB Player Digital Engagement Forecasting](https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting/overview)**
+
+    * 분류: 
+    * 주최: Major League Baseball, Google Cloud
+    * 주관: [<img width="50" src="./img/kaggle.png">](https://www.kaggle.com/)
+    * 일시: 6월 10일 ~ 7월 31일 23:59 UTC
+    * 상금: $50,000
 
 * **[CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize)**
 
