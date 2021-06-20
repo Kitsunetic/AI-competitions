@@ -1,33 +1,6 @@
 # AI인공지능 / 데이터 경진대회 목록
 
 # 현재 진행중인 대회
-
-* **[2021년도 인공지능 온라인 경진대회](https://www.aiconnect.kr)**
-
-    * 분류: `Computer Vision`, `NLP`
-    * 주최: 과학기술정보통신부
-    * 주관: NIPA(정보통신산업진흥원)
-    * 일시: ~~사전접수: 5월 17일 ~ 5월 31일~~ | 본접수: 6월 7일 ~ 6월 11일 | 본선일정 6월 21일 ~ 7월 2일
-    * 상금: 
-    * 요약: 사회적 문제 해결, 중소 벤처기업 사업화
-
-* **[동서발전 태양광 발전량 예측 AI 경진대회](https://dacon.io/competitions/official/235720)**
-
-    * 분류: `Time Series`, `Prediction`
-    * 주최: 한국동서발전(주)
-    * 주관: [<img width="85" src="./img/DACON.svg">](https://dacon.io/)
-    * 일시: 4월 7일 ~ 6월 8일 18:00
-    * 상금: 개인 1000만원 | 스타트업 600만원
-    * 요약: 미래의 태양광 발전량을 예측한다.
-
-* **[포스코ICT 2021 AI 챌린지 '청소년 AI 창의경진대회](https://aichallenge.poscoict.com/)**
-
-    * 주최: posco, 포스코ICT
-    * 주관: AIIA(지능정보산업협회)
-    * 후원: 과학기술정보통신부
-    * 접수기간: 4월 22일 ~ 6월 14일
-    * 총상금: 1700만원
-    * **참가대상: 중학생, 고등학생**
     
 * **[Coleridge Initiative - Show US the Data](https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data)**
 
@@ -56,6 +29,15 @@
     * 상금: 600만원
     * 요약: 미래에 해빙의 분포(이미지)를 예측한다.
 
+* **[2021년도 인공지능 온라인 경진대회](https://www.aiconnect.kr)**
+
+    * 분류: `Computer Vision`, `NLP`
+    * 주최: 과학기술정보통신부
+    * 주관: NIPA(정보통신산업진흥원)
+    * 일시: ~~사전접수: 5월 17일 ~ 5월 31일~~ | 본접수: 6월 7일 ~ 6월 11일 | 본선일정 6월 21일 ~ 7월 2일
+    * 상금: 
+    * 요약: 사회적 문제 해결, 중소 벤처기업 사업화
+
 * **[Overhead Geopose Challenge](https://www.drivendata.org/competitions/78/overhead-geopose-challenge/page/371/)**
 
     * 분류: `3D Object-Detection`
@@ -64,6 +46,14 @@
     * 일시: 5월 21일 ~ 7월 19일 23:59 UTC
     * 상금: $50,000
     * 요약: 인공위성 사진에서 건물의 높이를 측정한다.
+    
+* **[구내식당 식수 인원 예측 AI 경진대회](https://dacon.io/competitions/official/235743/overview)**
+
+    * 분류: `Tabular`, `Time Series`
+    * 주최: LH 한국토지주택공사
+    * 주관: [<img width="85" src="./img/DACON.svg">](https://dacon.io/)
+    * 일시: 6월 3일 ~ 7월 23일 17:59
+    * 상금: 700만원
     
 * **[SETI Breakthrough Listen - E.T. Signal Search](https://www.kaggle.com/c/seti-breakthrough-listen)**
 
@@ -74,6 +64,14 @@
     * 상금: $15,000
     * 요약: SETI 신호(이미지 shape)에서 특정 신호의 존재를 찾는다.
     * 메모: 대회가 시작한지 얼마 안됬는데 벌써 0.99 스코어를 달성한 사람이 여럿 있음. 대회가 이대로 계속 진행될지 대회 내용에 수정이 있을지 지켜봐야할 듯.
+    
+* **[주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview)**
+
+    * 분류: `Tabular`, `Time Series`
+    * 주최: LH 한국토지주택공사
+    * 주관: [<img width="85" src="./img/DACON.svg">](https://dacon.io/)
+    * 일시: 6월 10일 ~ 7월 30일
+    * 상금: 1300만원
     
 * **[MLB Player Digital Engagement Forecasting](https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting/overview)**
 
@@ -124,6 +122,24 @@
 
 
 # 지난 대회 목록
+
+* **[포스코ICT 2021 AI 챌린지 '청소년 AI 창의경진대회](https://aichallenge.poscoict.com/)**
+
+    * 주최: posco, 포스코ICT
+    * 주관: AIIA(지능정보산업협회)
+    * 후원: 과학기술정보통신부
+    * 접수기간: 4월 22일 ~ 6월 14일
+    * 총상금: 1700만원
+    * **참가대상: 중학생, 고등학생**
+
+* **[동서발전 태양광 발전량 예측 AI 경진대회](https://dacon.io/competitions/official/235720)**
+
+    * 분류: `Time Series`, `Prediction`
+    * 주최: 한국동서발전(주)
+    * 주관: [<img width="85" src="./img/DACON.svg">](https://dacon.io/)
+    * 일시: 4월 7일 ~ 6월 8일 18:00
+    * 상금: 개인 1000만원 | 스타트업 600만원
+    * 요약: 미래의 태양광 발전량을 예측한다.
 
 * **[Bristol-Myers Squibb – Molecular Translation](https://www.kaggle.com/c/bms-molecular-translation)**
 
