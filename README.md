@@ -115,10 +115,15 @@
     * 주관: AIFactory [<img width="85" src="./img/AIFactory.png">](http://aifactory.space/)
     * 일시: 7월 중 예정 (6월에서 주최측 사정으로 1개월 연기됨)
     * 상금: 미정
-    * 요약: 
 
+* **[자연어 기반 기후기술분류 AI 경진대회](https://dacon.io/competitions/official/235744/overview)**
 
-
+    * 분류: `NLP`, `Text Classification`
+    * 주최: 녹색기술센터(GTC)
+    * 주관: [<img width="85" src="./img/DACON.svg">](https://dacon.io/)
+    * 일시: 6월 21일 ~ 8월 16일 17:59
+    * 상금: 600만원
+    * 요약: 문서의 제목과 요약문 등 텍스트 정보를 통해 문서의 분류를 학습한다.
 
 
 # 지난 대회 목록
