@@ -90,6 +90,15 @@
     * 상금: $60,000
     * 요약: 텍스트의 난이도 점수를 예측한다.
     
+* **[카메라 이미지 품질 향상 AI 경진대회](https://dacon.io/competitions/official/235746/overview/description)**
+
+    * 분류: `Computer Vision`, `Image Enhancement`
+    * 주최: LG AI Research
+    * 주관: [<img width="85" src="./img/DACON.svg">](https://dacon.io/)
+    * 일시: 6월 28일 ~ 8월 2일 18:00
+    * 상금: 1,000만원, LG입사추천
+    * 요약: 🌟빛 번짐으로 저하된 📷카메라 이미지 품질을 향상시키는 AI 모델 개발
+    
 * **[Google Smartphone Decimeter Challenge](https://www.kaggle.com/c/google-smartphone-decimeter-challenge)**
 
     * 분류: `Signal Analysis`
