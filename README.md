@@ -116,6 +116,14 @@
     * 일시: 5월 17일 ~ 8월 9일 23:59 UTC
     * 상금: $100,000
     * 요약: 흉부 X-ray 사진을 통해 COVID-19의 탐지에 도움을 준다.
+    
+* **[뉴스 토픽 분류 AI 경진대회](https://dacon.io/competitions/official/235747/overview/description)**
+
+    * 분류: `Text Classification`
+    * 주최/주관: [<img width="85" src="./img/DACON.svg">](https://dacon.io/)
+    * 일시: 6월 30일 ~ 8월 9일 17:59
+    * 상금: 5,000 D-point
+    * 요약: 한국어 📰뉴스 헤드라인을 이용하여, 뉴스의 주제를 분류하는 알고리즘 개발
 
 * **[하천 하구의 수온·염분 예측을 위한 알고리즘 개발](http://aifactory.space/task/detail.do?taskId=T001952)**
 
