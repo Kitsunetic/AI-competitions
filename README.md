@@ -1,4 +1,6 @@
-This repository is archived. No updates from June 2021.
+**This repository is archived. No updates from June 2021.**
+
+---
 
 
 # AI인공지능 / 데이터 경진대회 목록
